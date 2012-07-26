@@ -15,4 +15,3 @@
 LOCAL_STEM := grouper/BoardConfigPartial.mk
 
 -include vendor/asus/$(LOCAL_STEM)
--
